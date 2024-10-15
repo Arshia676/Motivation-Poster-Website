@@ -1,0 +1,32 @@
+ html{
+    background: linear-gradient(100deg,rgb(134, 9, 49),rgb(194, 169, 141));
+} 
+.container{
+    border: 7px solid hsl(264, 88%, 6%);
+    height: 500px;
+    width: 40%;
+    margin-left: 25%;
+}
+img{
+    height: 310px;
+    width: 500px;
+    margin-left: 1.9%;
+    margin-top: 2px;
+    border: 4px solid whitesmoke;
+}
+h1{   
+    font-size:25px ;
+    font-weight:Bolder;
+    text-align:center ;
+    text-transform: uppercase;
+    margin-left: 1.5%;
+    color:whitesmoke;
+}
+p{
+    font-family:"Playwrite France Traditionnelle";
+    font-size: 20px;
+  color: rgb(240, 229, 229);
+  text-align: center;
+  line-height: 1.5em;
+  font-weight: 400 bold;
+}
